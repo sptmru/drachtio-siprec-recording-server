@@ -14,5 +14,11 @@
   "recordings": {
     "mp3Dir": "/opt/siprec/mp3-recordings",
     "pcapDir": "/opt/siprec/recordings"
+  },
+  "aws": {
+    "accessKeyId": "key",
+    "secretAccessKey": "secretkey",
+    "region": "us-east-1",
+    "bucketName": "call-recordings"
   }
 }
